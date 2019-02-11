@@ -1,0 +1,4 @@
+expedia/lmf/onesearch/OneSearchApplication.class
+expedia/lmf/onesearch/service/S3Service.class
+expedia/lmf/onesearch/config/SwaggerConfig.class
+expedia/lmf/onesearch/controller/OneSearchController.class
